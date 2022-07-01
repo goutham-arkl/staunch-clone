@@ -1,0 +1,56 @@
+
+
+.body
+{
+    
+    font-family:Poppins,HelveticaNeue,Helvetica Neue,Helvetica,Arial,Tahoma,sans-serif;
+    line-height: 1.8;
+    color: #555;
+}
+#bg-color
+{
+    background-color: red;
+}
+#border
+{
+    border: solid 1px ;
+    
+    
+}
+.sign-up
+{   
+    width: 5rem;
+    height: 2rem; 
+    border: solid 1px;
+    transition: 0.5s;
+}
+.sign-up:hover
+{
+    background-color: black;
+    color: white;
+}
+.nav-cont
+{
+    font-size: 13px;
+}
+#footer-cont
+{
+    font-size: 13px;
+}
+.shop-btn
+{
+    width: 20rem;
+    height: 3rem;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(0, 179, 6, 1);
+    transition: 1s;
+}
+
+.shop-btn:hover
+{
+    
+    background-color: rgb(213, 48, 120);
+}
